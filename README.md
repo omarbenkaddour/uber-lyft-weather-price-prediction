@@ -37,4 +37,4 @@ This project analyzes Uber and Lyft ride prices in Boston during November–Dece
 
 ## Files
 
-- `UberLyft_Weather_Pricing.ipynb`: full analysis and models
+- 'UBER_LYFT_vs_Weather_Price_Prediction.ipynb' : full analysis and models
